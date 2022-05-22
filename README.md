@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fırat Kahreman</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firatkahreman&label=Profile%20views&color=0e75b6&style=flat" alt="firatkahreman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firatkahreman" alt="firatkahreman" /></a> </p>
+<h1 align="center">I'm Fırat Kahreman</h1>
 
 - 🔭 I’m currently working on [Mezun Sistemi API](https://github.com/FiratKahreman/MezunSistemiAPI)
 
@@ -22,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firatkahreman&show_icons=true&locale=en&layout=compact" alt="firatkahreman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firatkahreman&show_icons=true&locale=en" alt="firatkahreman" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=firatkahreman&label=Profile%20views&color=0e75b6&style=flat" alt="firatkahreman" /> </p>
