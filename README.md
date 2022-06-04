@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fırat Kahreman</h1>
 
-- 🔭 I’m currently working on [Mezun Sistemi API](https://github.com/FiratKahreman/MezunSistemiAPI)
+- 🔭 I’m currently working on [KTÜ Mezun Sistemi](https://github.com/FiratKahreman/GradsWebApp)
 
 - 🌱 I’m currently learning **.NET Framework**
 
