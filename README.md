@@ -1,30 +1,88 @@
-<h1 align="center">Hi 👋, I'm Fırat Kahreman</h1>
-
-- 🔭 I’m currently working on [KTÜ Mezun Sistemi](https://github.com/FiratKahreman/GradsWebApp)
-
-- 🌱 I’m currently learning **.NET Framework**
-
-- 📝 I regularly write articles on [inceayrintilar.com](https://inceayrintilar.com)
-
-- 📫 How to reach me **firatkahrmn@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/firatkahreman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firatkahreman" height="30" width="40" /></a>
-</p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FiratKahreman&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=FiratKahreman&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FiratKahreman&theme=graywhite&hide_border=true)<br/>
-
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FiratKahreman&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=FiratKahreman&icon=5&color=12)](https://visitcount.itsvg.in)
+Hi, I'm Fırat 👋
+Software Engineer focused on enterprise software, AI-enabled development, developer productivity, automation, and mobile applications.
+My background started with production support and full-stack enterprise development across backend, frontend, databases, integrations, and legacy systems. In recent years, I have been increasingly focused on applying Generative AI and agentic workflows to real software engineering problems.
+What I work on
+- AI-enabled software development
+  - Coding agents
+  - Domain-aware agent workflows
+  - Skill-based context management
+  - Tool / MCP integrations
+  - AI-assisted test scenario generation
+  - Requirement-to-code analysis
+- Developer productivity & automation
+  - SDLC automation
+  - Test automation
+  - Operational workflow automation
+  - Developer experience tooling
+  - AI-assisted engineering workflows
+- Enterprise application development
+  - .NET-based backend and web applications
+  - Oracle / PL/SQL-heavy business systems
+  - REST APIs and system integrations
+  - Complex business rules
+  - Production troubleshooting and performance analysis
+- Mobile development
+  - Kotlin / Android
+  - Mobile feature development
+  - Mobile regression automation
+  - Bringing AI-assisted development practices into mobile repositories
+Tech I use
+Software Engineering
+C# .NET ASP.NET MVC Web API Entity Framework JavaScript jQuery
+Database
+Oracle PL/SQL SQL MSSQL
+AI & Automation
+GitHub Copilot Microsoft Copilot Studio Power Automate Power Apps MCP Agentic Workflows
+Testing & Quality
+xUnit Playwright Appium SonarQube Checkmarx
+DevOps & Tooling
+Git Azure DevOps Azure Pipelines Azure Test Plans Postman
+Mobile
+Kotlin Android Studio
+Areas I am currently deepening
+I am currently expanding from AI-assisted software development toward more complete AI Engineering:
+- Python
+- FastAPI
+- LLM APIs
+- Structured outputs
+- Tool calling
+- RAG
+- Embeddings & vector search
+- Agent orchestration
+- Evaluation & observability
+- Docker
+- Cloud-native AI application design
+- System design
+How I approach AI in software engineering
+I am especially interested in using AI as an engineering layer, not just as a code-completion tool.
+Some of the patterns I explore include:
+Requirement
+    ↓
+Domain Context
+    ↓
+Analysis
+    ↓
+Implementation Plan
+    ↓
+Code / Integration Changes
+    ↓
+Automated Tests
+    ↓
+Risk & Quality Checks
+    ↓
+Human Review
+I also work with domain-specific knowledge structures that help agents understand large and complex software systems without repeatedly rediscovering the whole codebase.
+Engineering principles I care about
+- Keep AI workflows grounded in real system context.
+- Prefer deterministic code when AI is not necessary.
+- Keep a human in the loop for critical decisions.
+- Optimize context before increasing model capability.
+- Treat prompts, agent behavior, and evaluations like production code.
+- Build reusable systems instead of one-off automations.
+- Measure engineering impact, not just AI usage.
+Current direction
+My long-term direction is toward roles such as:
+AI Engineer · AI-enabled Software Engineer · AI-focused Tech Lead · Developer Experience / AI Productivity Engineer
+while continuing to strengthen my software architecture and mobile engineering background.
+Connect
+LinkedIn
