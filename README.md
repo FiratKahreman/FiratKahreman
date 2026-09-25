@@ -1,3 +1,5 @@
+<a href="https://linkedin.com/in/firatkahreman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firatkahreman" height="30" width="40" /></a>
+
 Hi, I'm Fırat 👋
 Software Engineer focused on enterprise software, AI-enabled development, developer productivity, automation, and mobile applications.
 My background started with production support and full-stack enterprise development across backend, frontend, databases, integrations, and legacy systems. In recent years, I have been increasingly focused on applying Generative AI and agentic workflows to real software engineering problems.
@@ -84,5 +86,3 @@ Current direction
 My long-term direction is toward roles such as:
 AI Engineer · AI-enabled Software Engineer · AI-focused Tech Lead · Developer Experience / AI Productivity Engineer
 while continuing to strengthen my software architecture and mobile engineering background.
-Connect
-LinkedIn
